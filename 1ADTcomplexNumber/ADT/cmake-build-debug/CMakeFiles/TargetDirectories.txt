@@ -1,0 +1,7 @@
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/ADT.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/install.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/install/local.dir
+C:/University/datastructure/1ADTcomplexNumber/ADT/cmake-build-debug/CMakeFiles/install/strip.dir
